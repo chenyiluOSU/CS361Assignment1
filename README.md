@@ -1,1 +1,1 @@
-# CS361Assignment1
+# CS361Assignment
